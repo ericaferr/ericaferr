@@ -3,9 +3,8 @@
     </header>
 
 
-🎓 Graduanda em Processos Gerenciais - Instituto Federal do Piauí (IFPI)
-
-💻 Técnica em Redes de Computadores - Escola Estadual de Educação Profissional (EEEP) - Júlia Giffoni
+🎓 Graduada em Processos Gerenciais
+💻 Técnica em Redes de Computadores 
 
 ⚡ Cursos concluídos:
 
